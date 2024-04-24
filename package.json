@@ -1,0 +1,25 @@
+{
+  "name": "yf9token",
+  "version": "0.0.1",
+  "description": "yf9token",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngfor9/yf9token.git"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "yf9token",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngfor9/yf9token/issues"
+  },
+  "homepage": "https://github.com/youngfor9/yf9token#readme",
+  "dependencies": {
+    "tea-datetime-generator": "^1.0.1"
+  }
+}
